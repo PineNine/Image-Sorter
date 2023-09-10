@@ -1,5 +1,6 @@
-# photo-sorter
-python script i made with help from the internet to automatically sort my photos into folders from the date the photo was taken and then to seperate the raw photos into its own folder
+# What is it
+just a single python program i use to sort out photos i've taken by date and into subfolders for the raw files
 
-# stuff
-Must have a UNORGANIZED folder
+still trying to improve it and is really messy
+right now it's going to need a folder for the unorganzied photos
+also i think in windows 10 opening with "python" does something wierd so don't do that 👍
